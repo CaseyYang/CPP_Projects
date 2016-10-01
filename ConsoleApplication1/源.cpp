@@ -292,6 +292,6 @@ void main() {
 		if (result == RoundResult::GOOD_WIN) {
 			++count;
 		}
-		cout << (count + 0.0) / i << endl;
+		//cout << (count + 0.0) / i << endl;
 	}
 }
